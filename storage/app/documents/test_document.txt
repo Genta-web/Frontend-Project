@@ -1,0 +1,17 @@
+This is a test document for the Document Management System.
+
+Created: 2025-07-16
+Purpose: Testing document upload and management functionality
+
+Features tested:
+- Document upload
+- File storage
+- Document listing
+- Document viewing
+- Document editing
+- Document downloading
+- Document deletion
+
+The system should handle this file properly and allow all CRUD operations.
+
+End of test document.
